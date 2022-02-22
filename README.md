@@ -1,5 +1,5 @@
 # Note Taker
-This project makes me create a weather dashboard
+This challenge makes me create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
 ## User Story
 > AS A small business owner\
@@ -30,4 +30,4 @@ To meet the acceptance criteria, I did the following:
 -  Input the starter code for note taker and added to it
 -  Deployed app using github pages
 
-[Link to deployed application]()
+[Link to deployed application](https://izzie2021.github.io/Express-Note-Taker/)
